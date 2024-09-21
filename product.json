@@ -1,0 +1,72 @@
+[
+    {
+        "name": "iPhone 14",
+        "price": 999.99,
+        "feature": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy S23",
+        "price": 799.99,
+        "feature": false,
+        "rating": 4.8,
+        "company": "samsung"
+    },
+    {
+        "name": "Mi 12",
+        "price": 599.99,
+        "feature": true,
+        "rating": 4.9,
+        "company": "mi"
+    },
+    {
+        "name": "iPhone 13 Pro",
+        "price": 899.99,
+        "feature": true,
+        "rating": 4.7,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy Note 20",
+        "price": 1099.99,
+        "feature": false,
+        "rating": 4.6,
+        "company": "samsung"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 1299.99,
+        "feature": true,
+        "rating": 4.9,
+        "company": "dell"
+    },
+    {
+        "name": "Mi Note 10",
+        "price": 499.99,
+        "feature": false,
+        "rating": 4.8,
+        "company": "mi"
+    },
+    {
+        "name": "iPhone SE",
+        "price": 399.99,
+        "feature": true,
+        "rating": 4.5,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy A53",
+        "price": 349.99,
+        "feature": false,
+        "rating": 4.4,
+        "company": "samsung"
+    },
+    {
+        "name": "Dell Inspiron 15",
+        "price": 799.99,
+        "feature": true,
+        "rating": 4.9,
+        "company": "dell"
+    }
+]
